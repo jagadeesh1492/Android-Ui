@@ -44,7 +44,7 @@ namespace TextDrawableSamples
             {
                 throw new System.NotImplementedException();
             }
-
+            //test
             public override long GetItemId(int position)
             {
                 throw new System.NotImplementedException();
