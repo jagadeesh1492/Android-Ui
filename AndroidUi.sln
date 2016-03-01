@@ -11,6 +11,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{0D8E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextDrawableSamples", "TextDrawableSamples\TextDrawableSamples.csproj", "{0FBA5B53-F5CE-4D15-880F-96FBDAC70B09}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Packages", "Packages", "{CBEB201F-1EA1-4EA6-A852-1D8FF9D6B37B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuget.TextDrawable", "Nuget.TextDrawable\Nuget.TextDrawable.csproj", "{0451BAEF-DF2E-4B98-8644-94EE9415E389}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterSpalsh", "TwitterSpalsh\TwitterSpalsh.csproj", "{AC883E2E-6BF8-4383-9656-9814B43B1ED6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +33,16 @@ Global
 		{0FBA5B53-F5CE-4D15-880F-96FBDAC70B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FBA5B53-F5CE-4D15-880F-96FBDAC70B09}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0FBA5B53-F5CE-4D15-880F-96FBDAC70B09}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0451BAEF-DF2E-4B98-8644-94EE9415E389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0451BAEF-DF2E-4B98-8644-94EE9415E389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0451BAEF-DF2E-4B98-8644-94EE9415E389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0451BAEF-DF2E-4B98-8644-94EE9415E389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC883E2E-6BF8-4383-9656-9814B43B1ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC883E2E-6BF8-4383-9656-9814B43B1ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC883E2E-6BF8-4383-9656-9814B43B1ED6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AC883E2E-6BF8-4383-9656-9814B43B1ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC883E2E-6BF8-4383-9656-9814B43B1ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC883E2E-6BF8-4383-9656-9814B43B1ED6}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -34,5 +50,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{AD301B93-2B30-4972-B672-EDC964FEDD1E} = {C476E608-A7E3-4E81-9AE2-B08EA8FE2A22}
 		{0FBA5B53-F5CE-4D15-880F-96FBDAC70B09} = {0D8EAED9-C57F-44B7-B4E8-CB3E96015DDE}
+		{0451BAEF-DF2E-4B98-8644-94EE9415E389} = {CBEB201F-1EA1-4EA6-A852-1D8FF9D6B37B}
+		{AC883E2E-6BF8-4383-9656-9814B43B1ED6} = {C476E608-A7E3-4E81-9AE2-B08EA8FE2A22}
 	EndGlobalSection
 EndGlobal

@@ -1,6 +1,6 @@
 /*The MIT License(MIT)
 
-Copyright(c) 2014 Amulya Khare
+Copyright(c) 2016 Jagadeesh Govindaraj and Amulya Khare
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
