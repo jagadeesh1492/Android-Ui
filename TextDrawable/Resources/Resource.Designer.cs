@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("TextDrawable.Resource", IsApplication=false)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("Android.Ui.TextDrawable.Resource", IsApplication=false)]
 
-namespace TextDrawable
+namespace Android.Ui.TextDrawable
 {
 	
 	
